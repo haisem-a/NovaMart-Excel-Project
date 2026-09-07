@@ -48,4 +48,4 @@ Throughout this project, I learnt the essentials of data analysis using excel su
 
 ## Dashboard
 
-![NovaMart Dashboard]()
+![NovaMart Dashboard](NovaMart-Dashboard.png)
